@@ -69,7 +69,7 @@ main::after
   content: '';
   position: absolute;
   width: 100%;
-  background: url(/img/footer-background.576d29f0.svg) #defff2 center 20px;
+  background: url(./assets/images/footer-background.svg) #defff2 center 20px;
   background-size: 60px;
   height: 14vh;
   display: block;
